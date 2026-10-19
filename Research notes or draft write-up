@@ -1,33 +1,33 @@
-##Research Question:
+#Research Question:
 What is Claude Code?
 
-#Research Findings:
+##Research Findings:
 1. Developed by Anthropic: Claude Code is an AI coding tool created by Anthropic.
 2. Writes Code: It helps developers write and improve code.
 3. Understands Projects: It can read project files and understand how different parts of a project work together.
 4. Finds and Fixes Bugs: It can help developers identify errors and suggest solutions.
 5. Completes Tasks: It can edit files and run commands to complete coding tasks.
 
-#Analysis:
+###Analysis:
 Claude Code is more than a tool for suggesting code. It can work with project files and help complete multi-step tasks. This can save developers time and make software development easier. However, developers should review and test its work.
 
-##Research Question:
+#Research Question:
 What are the benefits of Claude Code?
 
-#Research Findings:
+##Research Findings:
 1. Saves Time: Claude Code can help developers complete coding tasks faster.
 2. Finds and Fixes Bugs: It can help identify coding errors and suggest fixes.
 3. Explains Code: It can explain unfamiliar code and help developers understand a project.
 4. Edits Multiple Files: It can read and change different files in a project.
 5. Automates Tasks: It can run commands and help complete multi-step coding tasks.
 
-#Analysis:
+###Analysis:
 Claude Code can make software development easier and more efficient. It is especially useful for projects that require changes across multiple files. However, developers should still review and test the code because AI can make mistakes.
 
-##Research Question:
+#Research Question:
 How is Claude Code different from GitHub Copilot?
 
-#Research Findings:
+##Research Findings:
 1. Claude Code
  a.Works through a terminal and other supported environments.
  b.Can examine project files and make changes.
@@ -40,5 +40,5 @@ How is Claude Code different from GitHub Copilot?
  c.Offers chat and agent features in supported coding environments.
  d.Can also edit files and complete multi-step tasks.
 
-#Analysis:
+###Analysis:
 Claude Code is designed to help developers complete coding tasks by working with their projects and tools. GitHub Copilot provides coding assistance inside development environments and also supports agent-based work. Their abilities overlap, so the main difference is their workflow and integration, not simply that one can code and the other cannot.
