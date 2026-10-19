@@ -1,5 +1,5 @@
 # Research Question:
-What is Claude Code?
+1. What is Claude Code?
 
 ## Research Findings:
 1. Developed by Anthropic: Claude Code is an AI coding tool created by Anthropic.
@@ -12,7 +12,20 @@ What is Claude Code?
 Claude Code is more than a tool for suggesting code. It can work with project files and help complete multi-step tasks. This can save developers time and make software development easier. However, developers should review and test its work.
 
 # Research Question:
-What are the benefits of Claude Code?
+2. How does Claude Code work?
+
+## Research Findings:
+Claude Code is a command line tool installed locally on your machine that operates through three core phrases:
+- Gather Context: Searches files to understand your codebase
+- Take Action: Edits and modifies project files directly
+- Verify Results: Runs automated tests to check its work
+These phrases blend together smoothly as Claude uses tools to analyze, edit, and running tests.
+
+### Analysis:
+Claude Code can help developers save time by automating coding tasks, but programmers still need to review its changes because AI-generated code can contain mistakes.
+
+# Research Question:
+3. What are the benefits of Claude Code?
 
 ## Research Findings:
 1. Saves Time: Claude Code can help developers complete coding tasks faster.
@@ -25,20 +38,45 @@ What are the benefits of Claude Code?
 Claude Code can make software development easier and more efficient. It is especially useful for projects that require changes across multiple files. However, developers should still review and test the code because AI can make mistakes.
 
 # Research Question:
-How is Claude Code different from GitHub Copilot?
+4. What are the risks of using Claude Code?
+
+## Research Findings:
+1. Permission Control: Claude Code's ability to run commands depends on its permission settings, and some actions may be allowed without asking for approval.
+2. Prompt Injection Attacks: Hidden commands in websites or files can attempt to manipulate the AI into performing unintended actions.
+3. Supply Chain Risks: The AI may use third-party packages that contain vulnerabilities or malicious code.
+4. Accidental Data Leaks: Sensitive information, such as passwords or API keys, could be exposed if the AI handles it improperly.
+5. Unsafe Terminal Commands: Incorrect or unintended commands could modify important files, damage a project, or install unwanted software.
+
+### Analysis:
+Although Claude Code can make programming tasks more efficient, its access to files and terminal commands creates security risks, so developers should carefully review its actions and use appropriate permission settings.
+
+# Research Question:
+5. How is Claude Code different from GitHub Copilot?
 
 ## Research Findings:
 1. Claude Code
- a.Works through a terminal and other supported environments.
- b.Can examine project files and make changes.
- c.Can run commands to complete coding tasks.
- d.Supports multi-step coding workflows.
+ a. Works through a terminal and other supported environments.
+ b. Can examine project files and make changes.
+ c. Can run commands to complete coding tasks.
+ d. Supports multi-step coding workflows.
 
 2. GitHub Copilot
- a.Provides code suggestions while developers type.
- b.Can explain code and help write tests.
- c.Offers chat and agent features in supported coding environments.
- d.Can also edit files and complete multi-step tasks.
+ a. Provides code suggestions while developers type.
+ b. Can explain code and help write tests.
+ c. Offers chat and agent features in supported coding environments.
+ d. Can also edit files and complete multi-step tasks.
 
 ### Analysis:
 Claude Code is designed to help developers complete coding tasks by working with their projects and tools. GitHub Copilot provides coding assistance inside development environments and also supports agent-based work. Their abilities overlap, so the main difference is their workflow and integration, not simply that one can code and the other cannot.
+
+# Research Question:
+6. Will Claude Code replace programmers in the future?
+
+## Research Findings:
+1. Job Replacement: Claude Code may automate some coding tasks that programmers usually perform.
+2. Increased Productivity: Programmers who use Claude Code can write and fix code faster.
+3. AI Limitations: Claude Code can make mistakes, so programmers must check its work.
+4. Human Skills: Programmers are still needed to solve complex problems, make decisions, and review AI-generated code.
+
+### Analysis:
+Claude Code may change how programmers work by taking over some coding tasks, but human problem-solving will remain important.
