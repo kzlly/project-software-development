@@ -1,5 +1,5 @@
 # Research Question:
-1. What is Claude Code?
+What is Claude Code?
 
 ## Research Findings:
 1. Developed by Anthropic: Claude Code is an AI coding tool created by Anthropic.
@@ -12,7 +12,7 @@
 Claude Code is more than a tool for suggesting code. It can work with project files and help complete multi-step tasks. This can save developers time and make software development easier. However, developers should review and test its work.
 
 # Research Question:
-2. How does Claude Code work?
+How does Claude Code work?
 
 ## Research Findings:
 Claude Code is a command line tool installed locally on your machine that operates through three core phrases:
@@ -25,7 +25,7 @@ These phrases blend together smoothly as Claude uses tools to analyze, edit, and
 Claude Code can help developers save time by automating coding tasks, but programmers still need to review its changes because AI-generated code can contain mistakes.
 
 # Research Question:
-3. What are the benefits of Claude Code?
+What are the benefits of Claude Code?
 
 ## Research Findings:
 1. Saves Time: Claude Code can help developers complete coding tasks faster.
@@ -38,7 +38,7 @@ Claude Code can help developers save time by automating coding tasks, but progra
 Claude Code can make software development easier and more efficient. It is especially useful for projects that require changes across multiple files. However, developers should still review and test the code because AI can make mistakes.
 
 # Research Question:
-4. What are the risks of using Claude Code?
+What are the risks of using Claude Code?
 
 ## Research Findings:
 1. Permission Control: Claude Code's ability to run commands depends on its permission settings, and some actions may be allowed without asking for approval.
@@ -51,7 +51,7 @@ Claude Code can make software development easier and more efficient. It is espec
 Although Claude Code can make programming tasks more efficient, its access to files and terminal commands creates security risks, so developers should carefully review its actions and use appropriate permission settings.
 
 # Research Question:
-5. How is Claude Code different from GitHub Copilot?
+How is Claude Code different from GitHub Copilot?
 
 ## Research Findings:
 1. Claude Code
@@ -70,7 +70,7 @@ Although Claude Code can make programming tasks more efficient, its access to fi
 Claude Code is designed to help developers complete coding tasks by working with their projects and tools. GitHub Copilot provides coding assistance inside development environments and also supports agent-based work. Their abilities overlap, so the main difference is their workflow and integration, not simply that one can code and the other cannot.
 
 # Research Question:
-6. Will Claude Code replace programmers in the future?
+Will Claude Code replace programmers in the future?
 
 ## Research Findings:
 1. Job Replacement: Claude Code may automate some coding tasks that programmers usually perform.
