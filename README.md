@@ -7,5 +7,5 @@ Claude Code is an AI coding assistant developed by Anthropic that helps programm
 **[Youtube Video](https://www.youtube.com/watch?v=WMiVH7xHzj4)**
 
 ### Brief description of each member's contribution:
-Kelly Yip: designed slides (did questions 2, 4, and 6), edited the final project presentation that includes voiceover, uploaded final presentation on YouTube
-Yamin Tao: did questions 1, 3, and 5, created the research notes, made the script for the video
+- Kelly Yip: designed slides (did questions 2, 4, and 6), edited the final project presentation that includes voiceover, uploaded final presentation on YouTube
+- Yamin Tao: did questions 1, 3, and 5, created the research notes, made the script for the video
